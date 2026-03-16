@@ -1,24 +1,37 @@
-# Car Sales Performance Dashboard
+# Car Sales YTD Analytics Dashboard
 
-## Overview
-Interactive Power BI dashboard analyzing car sales performance with KPIs like total sales, YTD vs previous YTD, and cars sold difference.
+Interactive Power BI dashboard analyzing **Year-To-Date (YTD) car sales performance**. Built with Power BI Desktop for my data analyst portfolio.
 
-## Data
-- Source: [briefly describe, e.g., mock dataset in Excel]
-- Rows: X, Time period: 2020–2024
+## 📊 Problem Statement
+Visualizes comprehensive YTD car sales data across **6 key requirements**:
+1. **Weekly YTD Sales Trend** - Line chart (X-axis: weeks)
+2. **YTD Sales by Color** - Pie chart showing color distribution  
+3. **YTD Sales by Dealer** - Map visualization by region
+4. **Company-Wise Sales Grid** - Grid showing sales per company
+5. **Detailed Car Info Grid** - All sale details (model, body style, color, amount, dealer, date)
+6. **7 Essential KPIs** - YTD vs Prior Year metrics
 
-## Key Features
-- YTD Sales vs Previous YTD
-- Cars Sold Variance by model and region
-- Slicers for year, model, and dealer
+## 📈 Key KPIs Tracked
+| Metric | Calculation |
+|--------|-------------|
+| YTD Total Sales (MoM) | Current month vs prior |
+| YoY Growth (Total Sales) | YTD vs Prior YTD |
+| YTD Average Price | vs Prior YTD Average |
+| YoY Growth (Avg Price) | Price trend analysis |
+| YTD Cars Sold | Total units |
+| YoY Growth (Cars Sold) | Volume comparison |
 
-## How to View
-- Download `Car_Sales_Dashboard.pbix` and open in Power BI Desktop.
-- Or use the live report link below (if published to web).
+## ✨ Interactive Features
+- **Slicers**: Filter by date range, dealer, color, body style
+- **Drill-through**: Overview → Individual car details
+- **Cross-filtering**: Click any visual to filter others
+- **Map navigation**: Zoom into dealer regions
 
-## Live Dashboard
-- Live report: <paste your Publish‑to‑web URL here>
+## 🚀 How to Explore (Free)
+1. Download `Car-Sales-Dashboard.pbix`
+2. Open in **Power BI Desktop** (free download)
+3. Interact with slicers, drill-downs, tooltips
 
-## Skills Demonstrated
-- Data modeling, DAX measures
-- Building KPI cards, slicers, and interactive visuals
+**No Power BI license needed** - works in free Desktop version.
+
+## 🛠 Tech Stack
