@@ -1,5 +1,12 @@
 # Car Sales YTD Analytics Dashboard
 
+## 🎯 Quick Start (30 seconds)
+1. Click `Car_sales_DashBoard1.pbix` → **"View raw"** → **Download**
+2. Double-click .pbix file 
+3. **Power BI Desktop opens** (free) with full interactivity
+
+✅ No login, no Power BI license needed
+
 Interactive Power BI dashboard analyzing **Year-To-Date (YTD) car sales performance**. Built with Power BI Desktop for my data analyst portfolio.
 
 ## 📊 Problem Statement
