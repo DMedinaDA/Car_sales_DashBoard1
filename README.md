@@ -33,5 +33,9 @@ Visualizes comprehensive YTD car sales data across **6 key requirements**:
 3. Interact with slicers, drill-downs, tooltips
 
 **No Power BI license needed** - works in free Desktop version.
-
 ## 🛠 Tech Stack
+SQL/BigQuery data source
+DAX measures (YTD, YoY calculations)
+Custom map visuals
+Matrix grids with conditional formatting
+
