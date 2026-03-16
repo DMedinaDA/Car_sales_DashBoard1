@@ -14,6 +14,8 @@ Visualizes comprehensive YTD car sales data across **6 key requirements**:
 ## 📸 Screenshots
 ![Dashboard Overview](screenshots/Screenshot%20(15).png) 
 
+Details Grid 
+
 ![Details Grid](screenshots/Screenshot%20(13).png)
 
 
