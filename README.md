@@ -13,8 +13,8 @@ Visualizes comprehensive YTD car sales data across **6 key requirements**:
 
 ## 📸 Screenshots
 ## 📸 Screenshots
-![Dashboard Overview](screenshots/screenshot-15.jpg)
-![KPI Details](screenshots/screenshot-13.jpg)
+![Dashboard Overview](screenshots/screenshot(15).jpg)
+![KPI Details](screenshots/screenshot(13).jpg)
 
 
 ## 📈 Key KPIs Tracked
