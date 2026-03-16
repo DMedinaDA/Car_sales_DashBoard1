@@ -14,7 +14,7 @@ Visualizes comprehensive YTD car sales data across **6 key requirements**:
 ## 📸 Screenshots
 ## 📸 Screenshots
 ![Dashboard Overview](screenshots/screenshot(15).jpg)
-![KPI Details](https://github.com/DMedinaDA/Car_sales_DashBoard1/blob/fb5292cddded8514b4fc5c8a0d239974cb3639b0/screenshots/Screenshot%20(13).png)
+![Details Grid - Car Sales KPIs] (https://github.com/DMedinaDA/Car_sales_DashBoard1/blob/fb5292cddded8514b4fc5c8a0d239974cb3639b0/screenshots/Screenshot%20(13).png)
 
 
 ## 📈 Key KPIs Tracked
