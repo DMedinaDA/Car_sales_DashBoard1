@@ -13,7 +13,7 @@ Visualizes comprehensive YTD car sales data across **6 key requirements**:
 
 ## 📸 Screenshots
 ## 📸 Screenshots
-![Dashboard Overview - YTD Trends & Dealer Map](screenshot-15)
+![Dashboard Overview - YTD Trends & Dealer Map](screenshots/Screenshot (15).png)
 ![Details Grid - Car Sales KPIs](screenshot-13)
 
 
