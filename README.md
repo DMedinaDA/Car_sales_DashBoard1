@@ -11,6 +11,11 @@ Visualizes comprehensive YTD car sales data across **6 key requirements**:
 5. **Detailed Car Info Grid** - All sale details (model, body style, color, amount, dealer, date)
 6. **7 Essential KPIs** - YTD vs Prior Year metrics
 
+## 📸 Screenshots
+![Dashboard Overview - YTD Trends & Dealer Map](Screenshot%20(13).png)
+![Details Grid - Car Sales KPIs](Screenshot%20(15).png)
+
+
 ## 📈 Key KPIs Tracked
 | Metric | Calculation |
 |--------|-------------|
