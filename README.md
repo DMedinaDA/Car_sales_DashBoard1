@@ -12,7 +12,6 @@ Visualizes comprehensive YTD car sales data across **6 key requirements**:
 6. **7 Essential KPIs** - YTD vs Prior Year metrics
 
 ## 📸 Screenshots
-## 📸 Screenshots
 ![Dashboard Overview](https://github.com/DMedinaDA/Car_sales_DashBoard1/blob/e917796cbd2c28f5b36dc97fb48f767a8d7d2d6a/screenshots/Screenshot%20(15).png
 
 
